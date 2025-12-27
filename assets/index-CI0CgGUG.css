@@ -1,0 +1,1 @@
+:root{--primary-color: #4f46e5;--secondary-color: #fca311}body{margin:0;padding:0;box-sizing:border-box;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;overflow-x:hidden}#root{min-height:100vh}@keyframes bounce-subtle{0%,to{transform:translateY(0)}50%{transform:translateY(-5px)}}.animate-bounce-subtle{animation:bounce-subtle 2s ease-in-out infinite}

@@ -1,0 +1,18 @@
+
+{
+  "short_name": "SmartySquares",
+  "name": "Smarty Squares: Kids Trivia",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#4f46e5",
+  "description": "A fun, grid-style trivia game for elementary school children.",
+  "orientation": "any"
+}
